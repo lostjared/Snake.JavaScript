@@ -2,6 +2,7 @@
 
 ![screenshot](https://github.com/lostjared/Snake.JavaScript/blob/main/snake.jpg)
 
+Play at http://lostsidedead.biz/snake
 
 This is a basic Snake game implemented using HTML5 and JavaScript with a canvas element. The game was originally written in Rust and SDL2 and has been converted to run in a web browser.
 
