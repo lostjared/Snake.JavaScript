@@ -36,6 +36,3 @@ To run the game, simply open the `index.html` file in a web browser.
 
 This project was originally implemented in Rust using SDL2. It has been converted to JavaScript to run in a web browser.
 
-## Author
-
-- Jared Bruni (jaredbruni@protonmail.com)
